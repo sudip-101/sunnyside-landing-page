@@ -558,6 +558,11 @@ footer {
     .navbar {
       padding: $small;
 
+      .nav-links {
+        left: 24px;
+        width: calc(100% - 48px);
+      }
+
       .navToggle {
         right: 24px;
       }

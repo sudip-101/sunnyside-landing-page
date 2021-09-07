@@ -716,6 +716,10 @@ footer .footer-container a:hover {
   header .navbar {
     padding: 24px;
   }
+  header .navbar .nav-links {
+    left: 24px;
+    width: calc(100% - 48px);
+  }
   header .navbar .navToggle {
     right: 24px;
   }
